@@ -7,7 +7,7 @@ end
 
 
 #
-counter = 0
+#counter = 0
 # while counter < 20
 #   puts "The current number is less #{counter}."
 #   counter += 1
